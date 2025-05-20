@@ -1,4 +1,4 @@
+tensorflow==2.19.0
 streamlit==1.45.1
-tensorflow==2.10.1  # Last version with Python 3.8 support
-protobuf==3.20.3    # Required compatibility
-numpy==1.24.4       # Matching TensorFlow's requirement
+protobuf==3.20.3
+numpy==1.26.4
