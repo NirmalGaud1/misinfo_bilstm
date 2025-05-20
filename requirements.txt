@@ -1,4 +1,3 @@
-pip
 streamlit
-tensorflow==2.12.0
+tensorflow-gpu==2.15.0
 numpy
